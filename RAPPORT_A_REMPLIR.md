@@ -7,9 +7,9 @@ Date: 24 mai 2026
 
 ## 1. Expérience en développement JavaScript
 
-Je suis étudiant en génie logiciel à l'Université d'Ottawa. J'ai déjà travaillé avec HTML, CSS, TypeScript, React/Next.js et des bases de données. Pour ce devoir, je suis revenu à une base plus simple: une page HTML, du CSS, Bootstrap et une structure que je peux modifier facilement plus tard.
+Je suis étudiant en génie logiciel à l'Université d'Ottawa et j'ai déjà travaillé avec HTML, CSS, JavaScript, TypeScript et React/Next.js. J'avais déjà un site portfolio avant ce devoir, mais j'ai choisi d'en refaire un pour ce cours. Les compétences acquises avec la première version m'ont aidé à travailler plus rapidement sur la structure, les sections et la direction visuelle de cette nouvelle version. Je suis aussi plus à l'aise avec le frontend qu'avant, surtout parce que j'ai beaucoup regardé de vidéos, exploré des portfolios et pratiqué en construisant des interfaces pour mes propres projets.
 
-J'ai utilisé Bootstrap pour la base responsive, puis un fichier CSS séparé pour contrôler l'apparence du site. J'ai surtout travaillé la hiérarchie, les espacements, la navigation, la ligne de temps et la façon de présenter les projets. Le but était d'avoir une page claire maintenant, mais assez flexible pour ajouter les futurs designs du cours sans tout refaire.
+Je n'ai pas de formation formelle en design, mais je trouve le frontend plus intéressant que le backend parce qu'on voit rapidement l'effet des décisions: espacement, typographie, contraste, hiérarchie et mise en page. Pour ce devoir, j'ai gardé une base simple avec HTML, CSS et Bootstrap, puis j'ai personnalisé l'apparence pour que le site ressemble davantage à un portfolio contrôlé qu'à un modèle générique.
 
 Tutoriels ou ressources consultés:
 
@@ -20,11 +20,11 @@ Tutoriels ou ressources consultés:
 
 ## 2. Lien vers l'interface utilisateur
 
-**À ajouter:** lien public vers le portfolio hébergé.
+https://seg3525-portfolio-lime.vercel.app/
 
 ## 3. Lien vers le code
 
-**À ajouter:** lien vers le dépôt GitHub ou autre plateforme accessible.
+https://github.com/marctche/seg3525-portfolio
 
 ## 4. Inspirations visuelles
 
