@@ -194,6 +194,16 @@ h1 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
 
+.design-link {
+  color: inherit;
+  display: block;
+  text-decoration: none;
+}
+
+.design-link article {
+  height: 100%;
+}
+
 .process-grid article,
 .design-grid article {
   background: var(--panel);
