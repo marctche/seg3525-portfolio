@@ -219,11 +219,25 @@ h1 {
   border-color: var(--line-strong);
 }
 
+.design-thumb {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top;
+  border: 1px solid var(--line);
+  margin-bottom: 1rem;
+}
+
 .process-grid h3,
 .design-grid h3 {
   font-size: 1.25rem;
   font-weight: 700;
   margin-top: 4rem;
+}
+
+.design-grid h3 {
+  margin-top: 0.5rem;
 }
 
 .process-grid p,
